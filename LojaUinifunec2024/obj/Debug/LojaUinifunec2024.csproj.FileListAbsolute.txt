@@ -1,0 +1,12 @@
+E:\Escolas\FUNEC\2024\DAD I\Projeto Final\ProjetoDAD_2024\LojaUinifunec2024\bin\Debug\LojaUinifunec2024.exe.config
+E:\Escolas\FUNEC\2024\DAD I\Projeto Final\ProjetoDAD_2024\LojaUinifunec2024\bin\Debug\LojaUinifunec2024.exe
+E:\Escolas\FUNEC\2024\DAD I\Projeto Final\ProjetoDAD_2024\LojaUinifunec2024\bin\Debug\LojaUinifunec2024.pdb
+E:\Escolas\FUNEC\2024\DAD I\Projeto Final\ProjetoDAD_2024\LojaUinifunec2024\obj\Debug\LojaUinifunec2024.csproj.AssemblyReference.cache
+E:\Escolas\FUNEC\2024\DAD I\Projeto Final\ProjetoDAD_2024\LojaUinifunec2024\obj\Debug\LojaUinifunec2024.Forms.FrmRua.resources
+E:\Escolas\FUNEC\2024\DAD I\Projeto Final\ProjetoDAD_2024\LojaUinifunec2024\obj\Debug\LojaUinifunec2024.FrmPrincipal.resources
+E:\Escolas\FUNEC\2024\DAD I\Projeto Final\ProjetoDAD_2024\LojaUinifunec2024\obj\Debug\LojaUinifunec2024.Properties.Resources.resources
+E:\Escolas\FUNEC\2024\DAD I\Projeto Final\ProjetoDAD_2024\LojaUinifunec2024\obj\Debug\LojaUinifunec2024.csproj.GenerateResource.cache
+E:\Escolas\FUNEC\2024\DAD I\Projeto Final\ProjetoDAD_2024\LojaUinifunec2024\obj\Debug\LojaUinifunec2024.csproj.CoreCompileInputs.cache
+E:\Escolas\FUNEC\2024\DAD I\Projeto Final\ProjetoDAD_2024\LojaUinifunec2024\obj\Debug\LojaUinifunec2024.exe
+E:\Escolas\FUNEC\2024\DAD I\Projeto Final\ProjetoDAD_2024\LojaUinifunec2024\obj\Debug\LojaUinifunec2024.pdb
+E:\Escolas\FUNEC\2024\DAD I\Projeto Final\ProjetoDAD_2024\LojaUinifunec2024\obj\Debug\LojaUinifunec2024.Forms.FrmBairro.resources
